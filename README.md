@@ -14,3 +14,6 @@ Deskripsi Project:
 sesuai dengan parameter yang tersedia dalam dataset perhitungan ISPU.
 - Kualitas Udara yang digunakan mengacu pada skor ISPU yang diperoleh dari konversi nilai konsentrasi dan terbagi menjadi 4 kategori, yakni: Baik, Sedang, Tidak sehat, Sangat tidak sehat
 - Selain memprediksi kualitas udara, adapun dampak dan tips pencegahan yang diberikan mengacu pada hasil kualitas udara yang diperoleh.
+
+Referensi tambahan:
+https://silika.jakarta.go.id/udara
