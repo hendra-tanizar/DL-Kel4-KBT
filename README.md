@@ -7,13 +7,11 @@ Anggota kelompok:
 
 Deskripsi Project:
 - Project dibangun berbasis website.
-- Aplikasi bertujuan untuk memprediksi bagaimana kadar polutan tertentu dapat memengaruhi indeks kualitas udara, dan menguji metode LSTM (Long Short Term Memory Network) yang merupakan salah satu metode deep learning dalam memberi prediksi.
-- Data yang digunakan adalah data ISPU kota Jakarta pada tahun 2023-2024.
-- Penerapan AI dalam project yakni dalam prediksi kualitas udara berdasarkan input parameter yang diberikan oleh user.
-- Parameter yang digunakan terdiri dari 6 kategori, diantaranya: PM2.5, PM10, O3 (ozon), NO2 (nitrogen dioksida), SO2 (sulfur dioksida), CO (karbon monoksida)
-sesuai dengan parameter yang tersedia dalam dataset perhitungan ISPU.
+- Aplikasi bertujuan untuk memberi hasil prediksi mengenai indeks kualitas udara, dan sekaligus menguji metode LSTM (Long Short Term Memory Network) yang merupakan salah satu metode deep learning dalam memberi prediksi.
+- Data yang digunakan adalah dataset AQI (indeks kualitas udara) untuk 34 provinsi di Indonesia.
+- Penerapan AI yakni dalam prediksi indeks kualitas udara melalui parameter yang diintegrasikan secara real-time berdasarkan lokasi, tanggal, dan waktu prediksi user.
+- Parameter yang digunakan terdiri dari 6 kategori, diantaranya: PM10, PM2.5, O3 (ozon),  SO2 (sulfur dioksida), NO2 (nitrogen dioksida), CO (karbon monoksida).
 - Kualitas Udara yang digunakan mengacu pada skor ISPU yang diperoleh dari konversi nilai konsentrasi dan terbagi menjadi 4 kategori, yakni: Baik, Sedang, Tidak sehat, Sangat tidak sehat
-- Selain memprediksi kualitas udara, adapun dampak dan tips pencegahan yang diberikan mengacu pada hasil kualitas udara yang diperoleh.
 
 Referensi tambahan:
 https://silika.jakarta.go.id/udara
