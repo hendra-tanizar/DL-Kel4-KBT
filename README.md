@@ -12,7 +12,7 @@ Deskripsi Project:
 - Penerapan AI yakni dalam prediksi indeks kualitas udara melalui parameter yang diintegrasikan secara real-time berdasarkan lokasi, tanggal, dan waktu prediksi user.
 - Parameter yang digunakan terdiri dari 6 kategori, diantaranya: PM10, PM2.5, O3 (ozon),  SO2 (sulfur dioksida), NO2 (nitrogen dioksida), CO (karbon monoksida).
 - Kualitas Udara yang digunakan mengacu pada skor ISPU yang diperoleh dari konversi nilai konsentrasi dan terbagi menjadi 4 kategori, yakni: Baik, Sedang, Tidak sehat, Sangat tidak sehat
-- Menggunakan framework deep learning yakni Tensorflow.
+- Menggunakan framework deep learning yakni TensorFlow.
 - Membaca dataset dari repository ini.
 
 Hasil Training Model:
