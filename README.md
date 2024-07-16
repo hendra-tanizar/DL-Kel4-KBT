@@ -1,9 +1,9 @@
 # Prediksi Indeks Standar Pencemar Udara (ISPU) dengan Metode LSTM (Long Short Term Memory Network) berbasis Website
 Oleh kelompok 4:
-Alvinus Yodi (203400010)
-Yulius Dani Eko Saputro (203400012)
-Hendra (203400013)
-Yosef Alfredo Khawarga (19340004)
+- Alvinus Yodi (203400010)
+- Yulius Dani Eko Saputro (203400012)
+- Hendra (203400013)
+- Yosef Alfredo Khawarga (19340004)
 
 Kelompok kami membangun aplikasi dengan menerapkan salah satu metode dari deep learning, yakni metode LSTM untuk mengerjakan prediksi indeks kualitas udara berdasarkan lokasi real-time pengguna dan input kota tujuan pengguna.
 - Aplikasi menggunakan metode LSTM dan dataset informasi indeks kualitas udara dari 34 provinsi di Indonesia yang memuat sebanyak 98.055 data.
