@@ -19,3 +19,14 @@ Hasil pada model yang telah di-training:
 2. Fitur polutan CO memiliki nilai RMSE 297.48 yang berarti nilai RMSE yang tinggi.
 3. Dari model LSTM yang digunakan untuk prediksi, diperoleh bahwa memungkinkan akan adanya peningkatan pada kinerja beberapa fitur terlebih pada O3, PM2.5, dan PM10 untuk
    meningkatkan akurasi prediksi indeks kualitas udara.
+
+Hasil dan kesimpulan dari aplikasi yang dibangun:
+1. Kesimpulan yang dapat diperoleh melalui project ini adalah model LSTM yang dipadukan dengan Weatherbit API dapat memberikan hasil prediksi mengenai indeks kualitas udara secara
+   real-time, dan model LSTM dapat memberikan hasil prediksi pada kota maupun wilayah tertentu dengan cukup baik. 
+2. Aplikasi tentu masih memerlukan banyak pengembangan agar mampu memberikan hasil prediksi yang lebih akurat serta dapat memberi kontribusi lebih bagi teknologi terlebih pada
+   lingkup deep learning dalam mengatasi permasalahan pencemaran udara khususnya pada kota-kota besar di Indonesia.
+
+Saran untuk pengembangan berikutnya:
+1. Implementasi model machine learning yang ada dapat digabungkan dengan model neural network dengan metode statistik tradisional agar dapat meningkatkan akurasi prediksi dari
+   model.
+2. Menambahkan fitur yang dapat memudahkan pengguna untuk mengerti keseluruhan hasil prediksi yang diperoleh pada aplikasi.
